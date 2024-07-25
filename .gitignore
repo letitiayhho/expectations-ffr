@@ -1,0 +1,12 @@
+*.eeg
+*.vhdr
+*.vmrk
+.DS_Store
+*.log
+__pycache__
+*data/
+*figs/
+.ipynb_checkpoints
+!*.gitignore
+notes/*
+*.tar.xz
